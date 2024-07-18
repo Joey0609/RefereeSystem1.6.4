@@ -1,6 +1,6 @@
 # Referee_System 
 ## 简介
- 该仓库为Robomaster（又称RM）的比赛裁判系统上位机适用的数据收发节点，基于裁判系统协议v1.61编写；
+ 该仓库为Robomaster（又称RM）的比赛裁判系统上位机适用的数据收发节点，基于裁判系统协议v1.64编写；
  ```bash
  提供服务端接口
  service：/RequestSerialize
